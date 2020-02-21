@@ -59,7 +59,7 @@
 **1 -** In the terminal (cmd, bash, powershell & etc) execute the following commands:
 ```bash
 # Download txAdmin, Enter folder and Install dependencies
-git clone https://github.com/tabarra/txAdmin
+git clone https://github.com/DevinMalone/txAdmin
 cd txAdmin
 npm i
 
